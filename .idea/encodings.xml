@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/controller/CategoryController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/mapper/Category.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/mapper/CategoryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/pojo/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/service/CategoryService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/service/impl/CategoryServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/how2java/util/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/springMVC.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/listCategory.jsp" charset="GBK" />
+  </component>
+</project>
